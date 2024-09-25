@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'MaPolicePerso2';
+    src: url('LPO-BoldDemiCondensed.woff2') format('woff2'),
+         url('LPO-BoldDemiCondensed.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'MaPolicePerso2', sans-serif;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
